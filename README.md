@@ -10,8 +10,8 @@ Repository Attuali: <b>6</b>!
 
 Contattami 📞:
 Discord: [Invito](htYoutps://discord.gg/aHCcH4w)
------------------------------------------------------------------
+-
 Social 🤑:
-Discord: [Invito](htYoutps://discord.gg/aHCcH4w)
+Discord: [Invito](https://discord.gg/aHCcH4w)
 
 ![](https://www.logistec.com/wp-content/uploads/2017/12/placeholder.png)
