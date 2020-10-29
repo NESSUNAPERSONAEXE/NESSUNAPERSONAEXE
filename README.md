@@ -8,6 +8,7 @@ Qui troverai siti html, tutorial bot/comandi per [discord.js](https://discord.js
 
 Repository Attuali: <b>6</b>!
   </font>
+  </p>
 <style>
   head{
   background-image: linear-gradient(125deg, #6a89cc, #b8e994);
