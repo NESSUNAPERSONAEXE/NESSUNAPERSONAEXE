@@ -9,6 +9,7 @@ Qui troverai siti html, tutorial bot/comandi per [discord.js](https://discord.js
 Repository Attuali: <b>6</b>!
   </font>
   </p>
+  </a>
   <h1>
 <style>
   head{
