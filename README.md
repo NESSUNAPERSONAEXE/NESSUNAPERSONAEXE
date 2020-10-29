@@ -9,13 +9,15 @@ Qui troverai siti html, tutorial bot/comandi per [discord.js](https://discord.js
 Repository Attuali: <b>6</b>!
   </font>
   </p>
+  <h1>
 <style>
   head{
   background-image: linear-gradient(125deg, #6a89cc, #b8e994);
   }
   </style>
+  </h1>
 Contattami 📞:
-Discord: [Invito](htYoutps://discord.gg/aHCcH4w)
+Discord: [Invito](https://discord.gg/aHCcH4w)
 
 Social 🤑:
 
